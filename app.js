@@ -1,0 +1,1 @@
+console.log('Andy’s Attic site loaded');
